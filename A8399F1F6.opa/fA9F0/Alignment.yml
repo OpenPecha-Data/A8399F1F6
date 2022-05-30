@@ -1,0 +1,19 @@
+segment_sources:
+  I47736863:
+    type: origin_type
+    relation: translation
+    language: en
+  I31633EEE:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  b1a704634a6741ffbd4456fb6b667526:
+    I47736863: eda5c4efce2a4bbc8dfb26e13b97a9fb
+    I31633EEE: b0b42286f0504cfb9f8dba89e5a15bbb
+  8523e817cb144418984dceb619e70cf1:
+    I47736863: c5dd16d7abdb41fdba8f90528ed79c6b
+    I31633EEE: e44ddb89ddb347138a64bfe033796e6e
+  f8bc32d980a948c3bf80576ef6d730df:
+    I47736863: 7948239d4b2e4774bc111cef044c3c0c
+    I31633EEE: 5713706db7e24eb4b5313e14ed37eb61
